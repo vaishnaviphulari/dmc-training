@@ -1,5 +1,14 @@
 //Name - Vaishnavi Mali
 //Cource -DMC
+/* Program Details : - 
+    Given an array arr[] of N integers, the task is to sort the array without changing the position of
+    negative numbers (if any) i.e. the negative numbers need not be sorted.
+    Examples:
+    Input: arr[] = {2, -6, -3, 8, 4, 1}
+    Output: 1 -6 -3 2 4 8
+    Input: arr[] = {-2, -6, -3, -8, 4, 1}
+    Output: -2 -6 -3 -8 1 4
+*/
 #include<stdio.h> 
 
 void main(){
